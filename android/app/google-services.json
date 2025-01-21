@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "22256449870",
+    "firebase_url": "https://onlinefirebase-a83c9-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-a83c9",
+    "storage_bucket": "onlinefirebase-a83c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22256449870:android:95ddc5c0135c77c42c061f",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_mike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo25a9MHG1e6JFXyLQp_gtyHN0QT5XX34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
